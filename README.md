@@ -1,4 +1,4 @@
-# Meditation-App
+# Meditation-App (Made With React)
 
 ### With Meditation you can easily relax and meditate
 
