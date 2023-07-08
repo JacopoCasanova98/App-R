@@ -1,6 +1,6 @@
 # Meditation-App (Made With React)
 
-### With Meditation you can easily relax and meditate
+### With Meditation App you can easily relax and meditate
 
 &nbsp;
 
